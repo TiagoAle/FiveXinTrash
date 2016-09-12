@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  FiveXInTrash
+
+  Created by Tiago Alexandre Francisco de Queiroz on 21/05/16.
+  Copyright © 2016 Tiago Alexandre Francisco de Queiroz. All rights reserved.
+*/
+//SKLabelNode
+"KEY"="CONTENT";
+"Record" = "Record";
+"Score" = "Score";
+"paper" = "paper";
+"glass" = "glass";
+"plastic" = "plastic";
+"metal" = "metal";
+"organic" = "organic";
